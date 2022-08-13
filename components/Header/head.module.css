@@ -1,0 +1,5 @@
+.stickyHeader {
+    max-height: 80px;
+    min-height: 80px;
+    background: #17376D;
+}
